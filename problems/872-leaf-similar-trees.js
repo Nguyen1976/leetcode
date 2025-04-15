@@ -29,6 +29,7 @@ var leafSimilar = function (root1, root2) {
   //     if(leaves1[i] !== leaves2[i]) return false
   // }
   //Nếu như dùng join trong trường hợp này để so sánh mảng thì sẽ sai với trường hợp mảng là rỗng vì nó luôn luôn return về false
+  //Cách này vẫn tốn O(n)
   return JSON.stringify(getLeaf(root1)) === JSON.stringify(getLeaf(root2))
 }
 
