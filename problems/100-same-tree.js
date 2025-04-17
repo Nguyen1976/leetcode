@@ -19,4 +19,4 @@ var isSameTree = function (p, q) {
   return isSameTree(p.left, q.left) && isSameTree(p.right, q.right)
 }
 
-//Sử dungk đệ quy
+//Sử dụng đệ quy
