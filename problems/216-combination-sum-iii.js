@@ -28,4 +28,9 @@ var combinationSum3 = function(k, n) {
  * k thuộc [2, 9] và các số k chỉ từ [1, 9]
  * 
  * Sử dụng backtrack nó sẽ liên tục tạo ra các nhóm có k số khác nhau và luôn kiểm tra hợp lệ không nếu hợp lệ sẽ push
+ * 
+ * Với bài toán này ta đang tìm ra tất cả tổ hợp k số từ 1 đến 9 lên sẽ có C(9, k)
+ * và mỗi tổ hợp ta sẽ kiểm tra xem tổ hợp hợp lệ không sẽ tốn O(k)
+ * Tổng kết O(C(9, k)*k)
+ * Và kết quả lư có thể chứa (C(9, k)) lên space complexity có thể là O(C(9, k)*k) 
  */
