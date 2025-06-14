@@ -13,6 +13,9 @@ var majorityElement = function(nums) {
         count += (num === candidate) ? 1 : -1;//Neu ung vien hien tai = count thi count++ va nguoc lai
     }
     //Sau vong lap kha nang candidate la phan tu chiem da so vi sau moi lan tang giam phan tu chiem uu the duoc giu lai
+    //Tu duy khi ma mot phan tu no bang candidate hien tai thi count++ 
+    //Khi mot phan tu khac xuat hien thi count--
+    //Cho den khi count = 0 tuc la co phan tu khac xuat hien nhieu lan hon candidate len se cap nhat lai
 
     return candidate;
 };
