@@ -78,8 +78,4 @@ trên cạnh của bảng
 Ý tưởng: sử dụng bfs khi gặp các vùng O ta sẽ nan rộng trong qua trình nan rộng nếu vùng đất đó có nối thoát thì sẽ đánh dấu nó có nối thoát và k thể bao phủ 
 
 ta có thể lặp qua tất cả vùng biên nếu như gặp O và nan rộng sau đó duyệt qua ma trận và biến những O không nằm trong visited thành X
-
-
-
-
  */
