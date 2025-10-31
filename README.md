@@ -27,3 +27,11 @@ This repository contains solutions to various LeetCode problems, organized into 
 
 Feel free to explore, learn, and contribute!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Nguyen1976/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+<!---LeetCode Topics End-->
