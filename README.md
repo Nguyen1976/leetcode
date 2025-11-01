@@ -34,4 +34,13 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nguyen1976/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Array
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Hash Table
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
