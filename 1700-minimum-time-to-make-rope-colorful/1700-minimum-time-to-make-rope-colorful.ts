@@ -2,13 +2,12 @@ function minCost(colors: string, neededTime: number[]): number {
     let i = 0
     let res = 0
 
-    let arr = colors.split('')
 
-    while(i < arr.length - 1) {
+    while(i < colors.length - 1) {
 
         let k = i + 1
         let max = neededTime[i]
-        while(arr[k] === arr[i]) {
+        while(colors[k] === colors[i]) {
             if(max < neededTime[k]) {
                 res += max
                 max = neededTime[k]
