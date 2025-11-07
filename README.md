@@ -89,4 +89,8 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Nguyen1976/leetcode/tree/master/3863-power-grid-maintenance) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Nguyen1976/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
