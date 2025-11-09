@@ -94,4 +94,9 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nguyen1976/leetcode/tree/master/0007-reverse-integer) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
