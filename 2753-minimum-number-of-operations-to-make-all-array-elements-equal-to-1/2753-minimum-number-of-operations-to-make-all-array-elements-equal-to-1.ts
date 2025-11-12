@@ -2,7 +2,7 @@ function minOperations(nums: number[]): number {
     let gcd = (a, b) => {
         return b === 0 ? a : gcd(b, a % b)
     }
-    let operations = Infinity
+    let minLenToMake1 = Infinity
 
     let g = nums[0]
     for(let x of nums) g = gcd(g, x)
@@ -16,13 +16,14 @@ function minOperations(nums: number[]): number {
         for(let j = i + 1; j < nums.length; j++) {
             g = gcd(g, nums[j]);
             if (g === 1) {
-                operations = Math.min(operations, j - i + 1);
+                minLenToMake1 = Math.min(minLenToMake1, j - i + 1);
                 break;
             }
         }
     }
 
-    return (operations - 1) + (nums.length - 1);
+    
+    return (minLenToMake1 - 1) + (nums.length - 1);
 };
 /**
     Tìm ra cặp liền kề có gcd là 1 rồi thay thế 1 trong số đó
