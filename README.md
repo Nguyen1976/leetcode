@@ -40,6 +40,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Nguyen1976/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2625-increment-submatrices-by-one](https://github.com/Nguyen1976/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nguyen1976/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
