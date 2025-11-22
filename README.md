@@ -45,6 +45,7 @@ Feel free to explore, learn, and contribute!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/Nguyen1976/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nguyen1976/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -112,6 +113,7 @@ Feel free to explore, learn, and contribute!
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nguyen1976/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
