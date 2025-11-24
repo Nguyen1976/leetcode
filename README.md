@@ -41,6 +41,7 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nguyen1976/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Nguyen1976/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nguyen1976/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -156,6 +157,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Nguyen1976/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
 | ------- |
