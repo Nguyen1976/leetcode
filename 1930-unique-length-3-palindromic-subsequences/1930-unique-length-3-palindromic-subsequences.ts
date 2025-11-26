@@ -1,52 +1,22 @@
 function countPalindromicSubsequence(s: string): number {
-//     thử suy nghĩ hướng khác giả sử khi lưu a thì mình sẽ tìm cách lưu luôn cả những thằng nằm giữa nó và chỉ quan tâm số lượng và vị trí bắt đầu và kết thúc của a
-    // => design ra 1 cấu trúc dữ liệu khác
-    // {
-    //     key: {
-    //         length: number, default: 0
-    //         start: ... default: -1
-    //         end: ... default -1
-    //         midElement: []
-    //         maybe: []
-    //         //logic khi gặp a lần đầu sẽ có start khi gặp a lần tiếp theo sẽ có maybe trong khoảng thời gian mà từ start gặp end thì sẽ xây dựng thằng maybe
-    //         //nếu mỗi lần gặp a mà đã có start thì luôn update end và hợp maybe vào midElement nếu có
-    //         //khi bắt đầu đọc a thì sẽ lưu start khi lại gặp a thì sẽ update end 
-    //     },
-    //     key2: {
-
-    //     }
-    // }
-
-    let myData = {}
     let result = 0
 
-    for(let i = 0; i < s.length; i++) {
-        if(myData[s[i]]) {
-            myData[s[i]].length = myData[s[i]].length + 1
-            myData[s[i]].end = i
-        } else {
-            myData[s[i]] = {
-                length: 1,
-                start: i,
-                end: -1,
-                midElement: new Set()
-            }
+    for (let ch = 0; ch < 26; ch++) {
+        const char = String.fromCharCode(97 + ch); 
+        let first = s.indexOf(char);
+        let last = s.lastIndexOf(char);
+
+        if (first === -1 || first === last) continue; // không đủ 2 ký tự
+
+        // Set các ký tự giữa first và last
+        const midSet = new Set<string>();
+        for (let i = first + 1; i < last; i++) {
+            midSet.add(s[i]);
         }
+
+        result += midSet.size;
     }
 
-    for(const key in myData) {
-        let currData = myData[key]
-        let start = currData.start, end = currData.end
-
-        if(currData.length >= 2) {
-            for(let i = start + 1; i < end; i++) {
-                    currData.midElement.add(s[i])
-            }
-            result += currData.midElement.size
-        }
-    }
-
-    
     return result
 };
 
@@ -106,4 +76,7 @@ vẫn phải 2 lần lặp 1 lần build start và end
 lần 3 build midElement
 bới vì việc ghi nhớ vị trí start và end rồi lên mỗi lần lặp qua 1 key thì chỉ cần tìm những thằng nằm trong nó là xong 
 vậy lên O(n * k) so với cách trên nếu 
+
+
+sau khi đi 1 vòng thì nhận ra chỉ cần start và end là quá đủ vì dựa vào đó hoàn toàn có thể đưa ra lenght vật lên k cần đến data constructure tư duy như cũ nhưng không cần quá cầu kì
  */
