@@ -83,6 +83,11 @@ ta sẽ lưu các vị trí thay vì số lượng xuất hiện
 khi gặp a xuất hiện 3 lần thì ta sẽ có aaa là chắc chắn và kiểm tra các thằng còn lại trong map
 khi lặp qua 1 thằng khác trong map có 2 cái cần phải ktra đầu tiên là phải có 1possition a nhỏ hơn 1 position của thằng kia và 1 cái lớn hơn thì hợp lệ
 
+với cách này về space complex k có j đáng ngại vì cấu trúc sẽ là Map<string, number[]>()
+khi lặp qua ta sẽ cần lặp qua map trước và trong map sẽ phải lặp qua thêm 1 map nữa và trong map nữa sẽ có 1 phương thức some sẽ lặp qua thằng của map trong và lấy ra value từng thằng tức array và some sẽ phù hợp điều kiện k
+
+tức với cách này giả sử xuất hiện k phần tử trong map thì sẽ là O(k * k * n) vì xuất hiện thằng some
+
 cách ổn nhưng timelimit 
 
 
@@ -102,5 +107,6 @@ thử suy nghĩ hướng khác giả sử khi lưu a thì mình sẽ tìm cách 
 }
 vẫn phải 2 lần lặp 1 lần build start và end
 lần 3 build midElement
-
+bới vì việc ghi nhớ vị trí start và end rồi lên mỗi lần lặp qua 1 key thì chỉ cần tìm những thằng nằm trong nó là xong 
+vậy lên O(n * k) so với cách trên nếu 
  */
