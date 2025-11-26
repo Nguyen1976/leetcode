@@ -38,12 +38,9 @@ function countPalindromicSubsequence(s: string): number {
         let currData = myData[key]
         let start = currData.start, end = currData.end
 
-        if(currData.length >= 3) result++
         if(currData.length >= 2) {
             for(let i = start + 1; i < end; i++) {
-                if(s[i] !== key) {
                     currData.midElement.add(s[i])
-                }
             }
             result += currData.midElement.size
         }
