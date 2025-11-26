@@ -57,6 +57,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -69,6 +70,7 @@ Feel free to explore, learn, and contribute!
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
@@ -154,12 +156,14 @@ Feel free to explore, learn, and contribute!
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/Nguyen1976/leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nguyen1976/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
