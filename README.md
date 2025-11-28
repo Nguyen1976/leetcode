@@ -74,6 +74,7 @@ Feel free to explore, learn, and contribute!
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nguyen1976/leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
@@ -175,4 +176,8 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Enumeration
+|  |
+| ------- |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nguyen1976/leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
