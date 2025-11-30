@@ -36,6 +36,7 @@ Feel free to explore, learn, and contribute!
 | [0024-swap-nodes-in-pairs](https://github.com/Nguyen1976/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nguyen1976/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
@@ -62,6 +63,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -191,8 +193,10 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
