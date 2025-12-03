@@ -188,6 +188,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Nguyen1976/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nguyen1976/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Sorting
