@@ -96,6 +96,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nguyen1976/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -138,6 +139,7 @@ Feel free to explore, learn, and contribute!
 | [0171-excel-sheet-column-number](https://github.com/Nguyen1976/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Nguyen1976/leetcode/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nguyen1976/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Nguyen1976/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nguyen1976/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
