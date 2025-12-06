@@ -1,19 +1,13 @@
 class ArrayWrapper {
-    private nums: number[]
-    constructor(nums: number[]) {
-        this.nums = nums
+    constructor(private nums: number[]) {
     }
     
     valueOf(): number {
-        let total = 0
-        for(let n of this.nums) {
-            total += n
-        }
-        return total
+        return this.nums.reduce((acc, curr) => acc + curr, 0)
     }
     
     toString(): string {
-        return JSON.stringify(this.nums)
+        return `[${this.nums.join(',')}]`
     }
 };
 
