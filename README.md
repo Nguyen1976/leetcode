@@ -59,6 +59,7 @@ Feel free to explore, learn, and contribute!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nguyen1976/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/Nguyen1976/leetcode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -74,6 +75,7 @@ Feel free to explore, learn, and contribute!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-count-special-triplets](https://github.com/Nguyen1976/leetcode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -180,6 +182,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/Nguyen1976/leetcode/tree/master/3583-count-special-triplets) |
 ## Matrix
 |  |
 | ------- |
