@@ -15,7 +15,6 @@ function countMentions(numberOfUsers: number, events: string[][]): number[] {
         return 0
     })
 
-    console.log(events)
     let mentionAll = () => {
         for(let i = 0; i < numberOfUsers; i++) mentions[i] += 1
     }
