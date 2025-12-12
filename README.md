@@ -57,6 +57,7 @@ Feel free to explore, learn, and contribute!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nguyen1976/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Nguyen1976/leetcode/tree/master/3531-count-covered-buildings) |
@@ -156,6 +157,7 @@ Feel free to explore, learn, and contribute!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nguyen1976/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nguyen1976/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nguyen1976/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -166,6 +168,7 @@ Feel free to explore, learn, and contribute!
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
 ## Recursion
 |  |
 | ------- |
@@ -213,6 +216,7 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Nguyen1976/leetcode/tree/master/3531-count-covered-buildings) |
 ## Enumeration
 |  |
