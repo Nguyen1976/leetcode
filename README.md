@@ -51,6 +51,7 @@ Feel free to explore, learn, and contribute!
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nguyen1976/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Nguyen1976/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -116,6 +117,7 @@ Feel free to explore, learn, and contribute!
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Nguyen1976/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
@@ -137,6 +139,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nguyen1976/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Nguyen1976/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -239,6 +242,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Nguyen1976/leetcode/tree/master/3531-count-covered-buildings) |
@@ -268,6 +272,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Tree
 |  |
 | ------- |
