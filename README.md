@@ -108,6 +108,7 @@ Feel free to explore, learn, and contribute!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Nguyen1976/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Nguyen1976/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nguyen1976/leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -229,6 +230,7 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Nguyen1976/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Nguyen1976/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Nguyen1976/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
