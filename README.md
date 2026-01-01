@@ -41,6 +41,7 @@ Feel free to explore, learn, and contribute!
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Nguyen1976/leetcode/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nguyen1976/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -179,6 +180,7 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [0007-reverse-integer](https://github.com/Nguyen1976/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nguyen1976/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Nguyen1976/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Nguyen1976/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Nguyen1976/leetcode/tree/master/0263-ugly-number) |
