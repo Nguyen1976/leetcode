@@ -164,6 +164,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Nguyen1976/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -298,6 +299,7 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -309,6 +311,7 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
