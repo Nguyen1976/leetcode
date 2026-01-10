@@ -56,6 +56,7 @@ Feel free to explore, learn, and contribute!
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nguyen1976/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1975-maximum-matrix-sum](https://github.com/Nguyen1976/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -203,6 +204,7 @@ Feel free to explore, learn, and contribute!
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/Nguyen1976/leetcode/tree/master/1390-four-divisors) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nguyen1976/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Nguyen1976/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -272,6 +274,7 @@ Feel free to explore, learn, and contribute!
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nguyen1976/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nguyen1976/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
@@ -288,6 +291,7 @@ Feel free to explore, learn, and contribute!
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Nguyen1976/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nguyen1976/leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
@@ -338,9 +342,11 @@ Feel free to explore, learn, and contribute!
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nguyen1976/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Backtracking
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
