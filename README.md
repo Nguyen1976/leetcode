@@ -41,6 +41,7 @@ Feel free to explore, learn, and contribute!
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Nguyen1976/leetcode/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -347,6 +348,7 @@ Feel free to explore, learn, and contribute!
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
