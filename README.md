@@ -43,6 +43,7 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nguyen1976/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Nguyen1976/leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Nguyen1976/leetcode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -285,6 +286,7 @@ Feel free to explore, learn, and contribute!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -356,6 +358,7 @@ Feel free to explore, learn, and contribute!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nguyen1976/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Nguyen1976/leetcode/tree/master/0090-subsets-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
