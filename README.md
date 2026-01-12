@@ -117,6 +117,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nguyen1976/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Nguyen1976/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Nguyen1976/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -136,6 +137,7 @@ Feel free to explore, learn, and contribute!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nguyen1976/leetcode/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nguyen1976/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -356,6 +358,7 @@ Feel free to explore, learn, and contribute!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nguyen1976/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nguyen1976/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
