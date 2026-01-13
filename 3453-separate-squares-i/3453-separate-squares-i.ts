@@ -29,7 +29,7 @@ function separateSquares(squares: number[][]): number {
         if (areaBelow(mid) < target) left = mid
         else right = mid
     }
-    return left
+    return right
 };
 
 /**
@@ -49,7 +49,4 @@ ta có thể dùng binary search tìm k trên trục y
 
 không gian tìm kiếm là [minYi, max(yi + li)]
 và tìm sao cho F(k) = T/2
-
-
-
  */
