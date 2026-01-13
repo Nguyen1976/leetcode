@@ -78,6 +78,7 @@ Feel free to explore, learn, and contribute!
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nguyen1976/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/Nguyen1976/leetcode/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Nguyen1976/leetcode/tree/master/3531-count-covered-buildings) |
@@ -337,6 +338,7 @@ Feel free to explore, learn, and contribute!
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nguyen1976/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [3453-separate-squares-i](https://github.com/Nguyen1976/leetcode/tree/master/3453-separate-squares-i) |
 ## Binary Tree
 |  |
 | ------- |
