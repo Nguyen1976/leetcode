@@ -66,6 +66,7 @@ Feel free to explore, learn, and contribute!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nguyen1976/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Nguyen1976/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nguyen1976/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Nguyen1976/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -174,6 +175,7 @@ Feel free to explore, learn, and contribute!
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nguyen1976/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nguyen1976/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Heap (Priority Queue)
@@ -305,6 +307,7 @@ Feel free to explore, learn, and contribute!
 | [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nguyen1976/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nguyen1976/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nguyen1976/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
