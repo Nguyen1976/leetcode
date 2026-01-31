@@ -50,6 +50,7 @@ Feel free to explore, learn, and contribute!
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nguyen1976/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Nguyen1976/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nguyen1976/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nguyen1976/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -350,6 +351,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Nguyen1976/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nguyen1976/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3453-separate-squares-i](https://github.com/Nguyen1976/leetcode/tree/master/3453-separate-squares-i) |
