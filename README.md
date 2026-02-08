@@ -197,6 +197,7 @@ Feel free to explore, learn, and contribute!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nguyen1976/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -347,6 +348,7 @@ Feel free to explore, learn, and contribute!
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nguyen1976/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -362,6 +364,7 @@ Feel free to explore, learn, and contribute!
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nguyen1976/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
