@@ -23,3 +23,4 @@ function readBinaryWatch(turnedOn: number): string[] {
     backtrack(0, 0, 0, 0)
     return result
 }
+//dạng bài combination tức 1,2 hay 2,1 thì đều giống nhau lên chỉ cần loại bỏ idx đã chọn thì sẽ sinh ra đủ hoán vị
