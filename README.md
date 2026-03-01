@@ -314,6 +314,7 @@ Feel free to explore, learn, and contribute!
 | [0090-subsets-ii](https://github.com/Nguyen1976/leetcode/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nguyen1976/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0401-binary-watch](https://github.com/Nguyen1976/leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Nguyen1976/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nguyen1976/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Nguyen1976/leetcode/tree/master/0868-binary-gap) |
