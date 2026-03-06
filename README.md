@@ -144,6 +144,7 @@ Feel free to explore, learn, and contribute!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Nguyen1976/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nguyen1976/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Nguyen1976/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nguyen1976/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
