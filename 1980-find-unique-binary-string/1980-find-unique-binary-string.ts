@@ -1,10 +1,12 @@
 function findDifferentBinaryString(nums: string[]): string {
     let result = ''
+    let found = false
     let generateBinString = (currString: string) => {
+        if(found) return
         if(currString.length === nums.length) {     
             if(!nums.includes(currString)) {
                 result = currString
-
+                found = true
             }
             return
         } 
