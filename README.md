@@ -70,6 +70,7 @@ Feel free to explore, learn, and contribute!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nguyen1976/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Nguyen1976/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nguyen1976/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -114,6 +115,7 @@ Feel free to explore, learn, and contribute!
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -147,6 +149,7 @@ Feel free to explore, learn, and contribute!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nguyen1976/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nguyen1976/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Nguyen1976/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nguyen1976/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Nguyen1976/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -425,6 +428,7 @@ Feel free to explore, learn, and contribute!
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
