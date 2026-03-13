@@ -15,11 +15,8 @@ function valid(T: number, mountainHeight: number, workerTimes: number[]): boolea
 
 function minNumberOfSeconds(mountainHeight: number, workerTimes: number[]): number {
     let left = Math.min(...workerTimes)
-    let right = 0
     const workloadPerWorker = Math.ceil(mountainHeight / workerTimes.length)
-    for(let time of workerTimes) {
-        right += ((workloadPerWorker + 1) * workloadPerWorker) * time
-    }
+    let right = (((workloadPerWorker + 1) * workloadPerWorker) * Math.max(...workerTimes)) / 2
 
     let result = 0
     while(left <= right) {
