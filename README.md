@@ -255,6 +255,7 @@ Feel free to explore, learn, and contribute!
 | [1266-minimum-time-visiting-all-points](https://github.com/Nguyen1976/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Nguyen1976/leetcode/tree/master/1390-four-divisors) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nguyen1976/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/Nguyen1976/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Nguyen1976/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -371,6 +372,7 @@ Feel free to explore, learn, and contribute!
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1622-fancy-sequence](https://github.com/Nguyen1976/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,4 +457,8 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Nguyen1976/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Nguyen1976/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
