@@ -104,6 +104,7 @@ Feel free to explore, learn, and contribute!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/Nguyen1976/leetcode/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Nguyen1976/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nguyen1976/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nguyen1976/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -326,6 +327,7 @@ Feel free to explore, learn, and contribute!
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nguyen1976/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nguyen1976/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nguyen1976/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/Nguyen1976/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +466,7 @@ Feel free to explore, learn, and contribute!
 | [0696-count-binary-substrings](https://github.com/Nguyen1976/leetcode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nguyen1976/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Nguyen1976/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Nguyen1976/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
