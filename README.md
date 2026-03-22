@@ -485,4 +485,8 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Nguyen1976/leetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Nguyen1976/leetcode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
