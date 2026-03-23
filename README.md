@@ -66,6 +66,7 @@ Feel free to explore, learn, and contribute!
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nguyen1976/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nguyen1976/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -178,6 +179,7 @@ Feel free to explore, learn, and contribute!
 | [0746-min-cost-climbing-stairs](https://github.com/Nguyen1976/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Nguyen1976/leetcode/tree/master/0799-champagne-tower) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nguyen1976/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nguyen1976/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -320,6 +322,7 @@ Feel free to explore, learn, and contribute!
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nguyen1976/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nguyen1976/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nguyen1976/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
