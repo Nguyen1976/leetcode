@@ -99,6 +99,7 @@ Feel free to explore, learn, and contribute!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Nguyen1976/leetcode/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Nguyen1976/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nguyen1976/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Nguyen1976/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nguyen1976/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -333,6 +334,7 @@ Feel free to explore, learn, and contribute!
 | [2906-construct-product-matrix](https://github.com/Nguyen1976/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nguyen1976/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nguyen1976/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Nguyen1976/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nguyen1976/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nguyen1976/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Prefix Sum
@@ -350,6 +352,7 @@ Feel free to explore, learn, and contribute!
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nguyen1976/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nguyen1976/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Nguyen1976/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nguyen1976/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -394,6 +397,7 @@ Feel free to explore, learn, and contribute!
 | [1925-count-square-sum-triples](https://github.com/Nguyen1976/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nguyen1976/leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Nguyen1976/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nguyen1976/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Design
 | Problem Name | Difficulty |
