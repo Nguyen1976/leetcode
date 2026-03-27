@@ -85,6 +85,7 @@ Feel free to explore, learn, and contribute!
 | [2625-increment-submatrices-by-one](https://github.com/Nguyen1976/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nguyen1976/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/Nguyen1976/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nguyen1976/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nguyen1976/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nguyen1976/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nguyen1976/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -276,6 +277,7 @@ Feel free to explore, learn, and contribute!
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Nguyen1976/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nguyen1976/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nguyen1976/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nguyen1976/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -291,6 +293,7 @@ Feel free to explore, learn, and contribute!
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nguyen1976/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -332,6 +335,7 @@ Feel free to explore, learn, and contribute!
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Nguyen1976/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Nguyen1976/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nguyen1976/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nguyen1976/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nguyen1976/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nguyen1976/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
