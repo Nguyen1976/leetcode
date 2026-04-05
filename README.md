@@ -150,6 +150,7 @@ Feel free to explore, learn, and contribute!
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Nguyen1976/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0657-robot-return-to-origin](https://github.com/Nguyen1976/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Nguyen1976/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nguyen1976/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -296,6 +297,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
+| [0657-robot-return-to-origin](https://github.com/Nguyen1976/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nguyen1976/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
