@@ -53,6 +53,7 @@ Feel free to explore, learn, and contribute!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nguyen1976/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nguyen1976/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Nguyen1976/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nguyen1976/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nguyen1976/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nguyen1976/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -123,6 +124,7 @@ Feel free to explore, learn, and contribute!
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nguyen1976/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Nguyen1976/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nguyen1976/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -298,6 +300,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Nguyen1976/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Nguyen1976/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nguyen1976/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
