@@ -6,7 +6,7 @@ class Robot {
     private currDirect = 0
     private x = 0
     private y = 0
-    private flag = false
+    private flag = false //tồn tại 1 điểm khởi đầu tại 0, 0 luôn là east nhưng sau lần di chuyển đầu tiên nếu robot ở điểm 0, 0 thì nó sẽ là south vì robot di chuyển theo chiều kim đồng hồ flag này sẽ cho biết robot đã di chuyển hay chưa
 
     constructor(w: number, h: number) {
         this.w = w
