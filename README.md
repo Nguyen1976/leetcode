@@ -53,6 +53,7 @@ Feel free to explore, learn, and contribute!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nguyen1976/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nguyen1976/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0867-transpose-matrix](https://github.com/Nguyen1976/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Nguyen1976/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nguyen1976/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nguyen1976/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -314,6 +315,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Nguyen1976/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0867-transpose-matrix](https://github.com/Nguyen1976/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Nguyen1976/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Nguyen1976/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nguyen1976/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -353,6 +355,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0867-transpose-matrix](https://github.com/Nguyen1976/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nguyen1976/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
