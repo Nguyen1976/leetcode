@@ -13,6 +13,7 @@ function twoEditWords(queries: string[], dictionary: string[]): string[] {
             let diff = 0
             for(let k = 0; k < w1.length; k++) {
                 if(w1[k] !== w2[k]) diff++
+                  if (diff > 2) break
             }
             if(diff <= 2) {
                 result.push(w1)
