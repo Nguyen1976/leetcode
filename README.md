@@ -192,6 +192,7 @@ Feel free to explore, learn, and contribute!
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nguyen1976/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nguyen1976/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Nguyen1976/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2833-furthest-point-from-origin](https://github.com/Nguyen1976/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Nguyen1976/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nguyen1976/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
@@ -357,6 +358,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nguyen1976/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2833-furthest-point-from-origin](https://github.com/Nguyen1976/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Nguyen1976/leetcode/tree/master/3583-count-special-triplets) |
 ## Matrix
