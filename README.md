@@ -83,6 +83,7 @@ Feel free to explore, learn, and contribute!
 | [1975-maximum-matrix-sum](https://github.com/Nguyen1976/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nguyen1976/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nguyen1976/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nguyen1976/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -311,6 +312,7 @@ Feel free to explore, learn, and contribute!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/Nguyen1976/leetcode/tree/master/1925-count-square-sum-triples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nguyen1976/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Nguyen1976/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -382,6 +384,7 @@ Feel free to explore, learn, and contribute!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nguyen1976/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/Nguyen1976/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nguyen1976/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Nguyen1976/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Nguyen1976/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -437,6 +440,7 @@ Feel free to explore, learn, and contribute!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nguyen1976/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nguyen1976/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nguyen1976/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nguyen1976/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
