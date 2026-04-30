@@ -128,6 +128,7 @@ Feel free to explore, learn, and contribute!
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nguyen1976/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nguyen1976/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nguyen1976/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nguyen1976/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nguyen1976/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -222,6 +223,7 @@ Feel free to explore, learn, and contribute!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nguyen1976/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Nguyen1976/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +397,7 @@ Feel free to explore, learn, and contribute!
 | [3546-equal-sum-grid-partition-i](https://github.com/Nguyen1976/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nguyen1976/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nguyen1976/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
