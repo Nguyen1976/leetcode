@@ -44,6 +44,7 @@ Feel free to explore, learn, and contribute!
 | [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nguyen1976/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Nguyen1976/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Nguyen1976/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nguyen1976/leetcode/tree/master/0090-subsets-ii) |
@@ -304,6 +305,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Nguyen1976/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nguyen1976/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Nguyen1976/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Nguyen1976/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Nguyen1976/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -380,6 +382,7 @@ Feel free to explore, learn, and contribute!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Nguyen1976/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/Nguyen1976/leetcode/tree/main/0867-transpose-matrix/) | Easy |
