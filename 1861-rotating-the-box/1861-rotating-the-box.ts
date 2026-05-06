@@ -7,7 +7,9 @@ function rotateTheBox(boxGrid: string[][]): string[][] {
             switch(boxGrid[i][j]) {
                 case '#':
                     //swap last and curr
-                    [boxGrid[i][j], boxGrid[i][last]] = [boxGrid[i][last], boxGrid[i][j]]
+                    const tmp = boxGrid[i][j];
+                    boxGrid[i][j] = boxGrid[i][last];
+                    boxGrid[i][last] = tmp;
                     last = last - 1
                     //update last
                     break
