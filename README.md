@@ -126,6 +126,7 @@ Feel free to explore, learn, and contribute!
 | [3606-coupon-code-validator](https://github.com/Nguyen1976/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3637-trionic-array-i](https://github.com/Nguyen1976/leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nguyen1976/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nguyen1976/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -165,6 +166,7 @@ Feel free to explore, learn, and contribute!
 | [3606-coupon-code-validator](https://github.com/Nguyen1976/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nguyen1976/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nguyen1976/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nguyen1976/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nguyen1976/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -291,6 +293,7 @@ Feel free to explore, learn, and contribute!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nguyen1976/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3863-power-grid-maintenance](https://github.com/Nguyen1976/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 | Problem Name | Difficulty |
@@ -340,6 +343,7 @@ Feel free to explore, learn, and contribute!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nguyen1976/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nguyen1976/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nguyen1976/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
@@ -375,6 +379,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nguyen1976/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
