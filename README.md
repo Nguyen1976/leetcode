@@ -74,6 +74,7 @@ Feel free to explore, learn, and contribute!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nguyen1976/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Nguyen1976/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nguyen1976/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nguyen1976/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -155,6 +156,7 @@ Feel free to explore, learn, and contribute!
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Nguyen1976/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -428,6 +430,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Nguyen1976/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nguyen1976/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
