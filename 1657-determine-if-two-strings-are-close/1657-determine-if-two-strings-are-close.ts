@@ -13,11 +13,7 @@ function closeStrings(word1: string, word2: string): boolean {
     for (const key of map1.keys()) {
         if (!map2.has(key)) return false;
     }
-
-    const arr1 = Array.from(map1.values()).sort((a, b) => a - b)
-    const arr2 = Array.from(map2.values()).sort((a, b) => a - b)
-
-
     
-    return JSON.stringify(arr1) === JSON.stringify(arr2)
+    return JSON.stringify(Array.from(map1.values()).sort((a, b) => a - b)) 
+    === JSON.stringify(Array.from(map2.values()).sort((a, b) => a - b))
 };
