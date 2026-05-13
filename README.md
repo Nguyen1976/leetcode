@@ -156,6 +156,7 @@ Feel free to explore, learn, and contribute!
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Nguyen1976/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nguyen1976/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -196,6 +197,7 @@ Feel free to explore, learn, and contribute!
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nguyen1976/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nguyen1976/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Nguyen1976/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Nguyen1976/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nguyen1976/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -393,6 +395,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nguyen1976/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Nguyen1976/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Nguyen1976/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Nguyen1976/leetcode/tree/master/3583-count-special-triplets) |
@@ -468,6 +471,7 @@ Feel free to explore, learn, and contribute!
 | [1200-minimum-absolute-difference](https://github.com/Nguyen1976/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nguyen1976/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Nguyen1976/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nguyen1976/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nguyen1976/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
