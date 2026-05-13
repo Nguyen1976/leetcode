@@ -8,8 +8,15 @@ function closeStrings(word1: string, word2: string): boolean {
         map2.has(word2[i]) ? map2.set(word2[i], map2.get(word2[i]) + 1) : map2.set(word2[i], 1)
     }
 
-    const arr1 = Array.from(map1).sort((a, b) => a[1] - b[1])
-    const arr2 = Array.from(map2).sort((a, b) => a[1] - b[1])
+    let arr1 = Array.from(map1)
+    let arr2 = Array.from(map2)
+
+    for(let i = 0; i < arr1.length; i++) {
+        if(!map2.has(arr1[i][0])) return false
+    }
+
+    arr1 = arr1.sort((a, b) => a[1] - b[1])
+    arr2 = arr2.sort((a, b) => a[1] - b[1])
 
 
     for(let i = 0; i < arr1.length; i++) {
