@@ -177,6 +177,7 @@ Feel free to explore, learn, and contribute!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nguyen1976/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Nguyen1976/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/Nguyen1976/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nguyen1976/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -231,6 +232,7 @@ Feel free to explore, learn, and contribute!
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nguyen1976/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Nguyen1976/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nguyen1976/leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3340-check-balanced-string](https://github.com/Nguyen1976/leetcode/tree/master/3340-check-balanced-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
