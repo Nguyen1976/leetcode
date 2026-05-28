@@ -119,6 +119,7 @@ Feel free to explore, learn, and contribute!
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nguyen1976/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nguyen1976/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nguyen1976/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/Nguyen1976/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nguyen1976/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nguyen1976/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -233,6 +234,7 @@ Feel free to explore, learn, and contribute!
 | [2947-count-beautiful-substrings-i](https://github.com/Nguyen1976/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nguyen1976/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Nguyen1976/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nguyen1976/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nguyen1976/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nguyen1976/leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
@@ -648,6 +650,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nguyen1976/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Nguyen1976/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
