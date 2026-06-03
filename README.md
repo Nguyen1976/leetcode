@@ -164,6 +164,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -352,6 +353,7 @@ Feel free to explore, learn, and contribute!
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/Nguyen1976/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Math
 | Problem Name | Difficulty |
@@ -548,6 +550,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
@@ -571,6 +574,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nguyen1976/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nguyen1976/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nguyen1976/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -596,6 +600,7 @@ Feel free to explore, learn, and contribute!
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
 ## Geometry
@@ -667,6 +672,7 @@ Feel free to explore, learn, and contribute!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nguyen1976/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nguyen1976/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
