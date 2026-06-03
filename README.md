@@ -146,6 +146,7 @@ Feel free to explore, learn, and contribute!
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nguyen1976/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nguyen1976/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3637-trionic-array-i](https://github.com/Nguyen1976/leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nguyen1976/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nguyen1976/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -293,6 +294,7 @@ Feel free to explore, learn, and contribute!
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nguyen1976/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nguyen1976/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nguyen1976/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nguyen1976/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
@@ -529,6 +531,7 @@ Feel free to explore, learn, and contribute!
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nguyen1976/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Nguyen1976/leetcode/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nguyen1976/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nguyen1976/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nguyen1976/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -577,6 +580,7 @@ Feel free to explore, learn, and contribute!
 | [3453-separate-squares-i](https://github.com/Nguyen1976/leetcode/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/Nguyen1976/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nguyen1976/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nguyen1976/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -631,6 +635,7 @@ Feel free to explore, learn, and contribute!
 | [2540-minimum-common-value](https://github.com/Nguyen1976/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Nguyen1976/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nguyen1976/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nguyen1976/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nguyen1976/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
