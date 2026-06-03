@@ -53,6 +53,7 @@ Feel free to explore, learn, and contribute!
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Nguyen1976/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nguyen1976/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nguyen1976/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0396-rotate-function](https://github.com/Nguyen1976/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nguyen1976/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -167,6 +168,7 @@ Feel free to explore, learn, and contribute!
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nguyen1976/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nguyen1976/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 | [0756-pyramid-transition-matrix](https://github.com/Nguyen1976/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -369,6 +371,7 @@ Feel free to explore, learn, and contribute!
 | [0189-rotate-array](https://github.com/Nguyen1976/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/Nguyen1976/leetcode/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nguyen1976/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nguyen1976/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0396-rotate-function](https://github.com/Nguyen1976/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nguyen1976/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Nguyen1976/leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -555,6 +558,7 @@ Feel free to explore, learn, and contribute!
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nguyen1976/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nguyen1976/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
@@ -699,4 +703,5 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nguyen1976/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nguyen1976/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 <!---LeetCode Topics End-->
