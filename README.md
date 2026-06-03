@@ -64,6 +64,7 @@ Feel free to explore, learn, and contribute!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nguyen1976/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nguyen1976/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nguyen1976/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Nguyen1976/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nguyen1976/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -216,6 +217,7 @@ Feel free to explore, learn, and contribute!
 | [0796-rotate-string](https://github.com/Nguyen1976/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nguyen1976/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nguyen1976/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nguyen1976/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nguyen1976/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -548,6 +550,7 @@ Feel free to explore, learn, and contribute!
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Nguyen1976/leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1622-fancy-sequence](https://github.com/Nguyen1976/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Nguyen1976/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Doubly-Linked List
@@ -594,6 +597,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -669,6 +673,7 @@ Feel free to explore, learn, and contribute!
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nguyen1976/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Nguyen1976/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
