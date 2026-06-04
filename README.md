@@ -279,6 +279,7 @@ Feel free to explore, learn, and contribute!
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Nguyen1976/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3660-jump-game-ix](https://github.com/Nguyen1976/leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nguyen1976/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +401,7 @@ Feel free to explore, learn, and contribute!
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nguyen1976/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nguyen1976/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nguyen1976/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nguyen1976/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
@@ -552,6 +554,7 @@ Feel free to explore, learn, and contribute!
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nguyen1976/leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nguyen1976/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nguyen1976/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nguyen1976/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
