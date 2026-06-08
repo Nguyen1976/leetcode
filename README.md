@@ -103,6 +103,7 @@ Feel free to explore, learn, and contribute!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Nguyen1976/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nguyen1976/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nguyen1976/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nguyen1976/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Nguyen1976/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -419,6 +420,7 @@ Feel free to explore, learn, and contribute!
 | [1914-cyclically-rotating-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Nguyen1976/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nguyen1976/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nguyen1976/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Nguyen1976/leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nguyen1976/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -660,6 +662,7 @@ Feel free to explore, learn, and contribute!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nguyen1976/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Nguyen1976/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nguyen1976/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nguyen1976/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Nguyen1976/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Nguyen1976/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nguyen1976/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
