@@ -343,6 +343,7 @@ Feel free to explore, learn, and contribute!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nguyen1976/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nguyen1976/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nguyen1976/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3863-power-grid-maintenance](https://github.com/Nguyen1976/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -405,6 +406,7 @@ Feel free to explore, learn, and contribute!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nguyen1976/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nguyen1976/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nguyen1976/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nguyen1976/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -592,6 +594,7 @@ Feel free to explore, learn, and contribute!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nguyen1976/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nguyen1976/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nguyen1976/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nguyen1976/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
