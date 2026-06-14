@@ -18,7 +18,7 @@ function pairSum(head: ListNode | null): number {
         curr = curr.next
     }
     let result = 0
-    for(let i = 0; i < arr.length; i++) {
+    for(let i = 0; i < Math.floor(arr.length / 2); i++) {
         result = Math.max(arr[i] + arr[arr.length - i - 1], result) 
     }
 
