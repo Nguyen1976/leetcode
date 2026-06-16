@@ -262,6 +262,7 @@ Feel free to explore, learn, and contribute!
 | [3340-check-balanced-string](https://github.com/Nguyen1976/leetcode/tree/master/3340-check-balanced-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nguyen1976/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/Nguyen1976/leetcode/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/Nguyen1976/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Nguyen1976/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -435,6 +436,7 @@ Feel free to explore, learn, and contribute!
 | [2553-separate-the-digits-in-an-array](https://github.com/Nguyen1976/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nguyen1976/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/Nguyen1976/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3612-process-string-with-special-operations-i](https://github.com/Nguyen1976/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nguyen1976/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Nguyen1976/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
