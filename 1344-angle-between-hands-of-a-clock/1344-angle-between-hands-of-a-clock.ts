@@ -1,9 +1,5 @@
 function angleClock(hour: number, minutes: number): number {
-    if(hour === 12) {
-        hour = 0
-    }
-
-    return (Math.abs(minutes - (hour * 5 + 5 / (60 / minutes))) * 360 / 60) > 180 ? 360 - (Math.abs(minutes - (hour * 5 + 5 / (60 / minutes))) * 360 / 60) : (Math.abs(minutes - (hour * 5 + 5 / (60 / minutes))) * 360 / 60)
+    return (Math.abs(minutes - ((hour % 12) * 5 + 5 / (60 / minutes))) * 360 / 60) > 180 ? 360 - (Math.abs(minutes - ((hour % 12) * 5 + 5 / (60 / minutes))) * 360 / 60) : (Math.abs(minutes - ((hour % 12) * 5 + 5 / (60 / minutes))) * 360 / 60)
 };
 
 /**
