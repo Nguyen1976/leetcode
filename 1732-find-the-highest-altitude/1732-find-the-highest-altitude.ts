@@ -1,13 +1,11 @@
 function largestAltitude(gain: number[]): number {
-    let prev = 0
-    gain.push(0)
-    let result = 0
-    for(let i = 0; i < gain.length; i++) {
-        result = Math.max(prev, result)
-        let temp = gain[i]
-        gain[i] = prev
-        prev += temp
-    }
+    let max = 0,
+    prefix = 0
 
-    return result
+  for (let g of gain) {
+    prefix += g
+    max = Math.max(max, prefix)
+  }
+
+  return max
 };
