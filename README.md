@@ -186,6 +186,7 @@ Feel free to explore, learn, and contribute!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nguyen1976/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nguyen1976/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Nguyen1976/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Nguyen1976/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nguyen1976/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nguyen1976/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -234,6 +235,7 @@ Feel free to explore, learn, and contribute!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nguyen1976/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Nguyen1976/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nguyen1976/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nguyen1976/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nguyen1976/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -467,6 +469,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Nguyen1976/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nguyen1976/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nguyen1976/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Nguyen1976/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
