@@ -1,13 +1,31 @@
 function maxNumberOfBalloons(text: string): number {
-    const map = new Map<string, number>()
+    let countA = 0, countB = 0, countL = 0, countO = 0, countN = 0
     for(let c of text) {
-        map.set(c, map.has(c) ? map.get(c) + 1 : 1)
+        switch(c) {
+            case 'a':
+                countA++
+                break
+            case 'b':
+                countB++
+                break
+            case 'l':
+                countL++
+                break
+            case 'o':
+                countO++
+                break
+            case 'n':
+                countN++
+                break
+            default:
+                break
+        }
     }
     return Math.min(
-        map.get('b') ?? 0,
-        map.get('a') ?? 0,
-        Math.floor((map.get('l') ?? 0) / 2),
-        Math.floor((map.get('o') ?? 0) / 2),
-        map.get('n') ?? 0
+        countA,
+        countB,
+        Math.floor(countL / 2),
+        Math.floor(countO / 2),
+        countN
     );
 };
