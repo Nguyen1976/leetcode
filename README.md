@@ -441,6 +441,7 @@ Feel free to explore, learn, and contribute!
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nguyen1976/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nguyen1976/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nguyen1976/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nguyen1976/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nguyen1976/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nguyen1976/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
