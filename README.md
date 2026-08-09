@@ -45,6 +45,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nguyen1976/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/Nguyen1976/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nguyen1976/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
@@ -700,6 +701,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Nguyen1976/leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Nguyen1976/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nguyen1976/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
