@@ -261,6 +261,7 @@ Feel free to explore, learn, and contribute!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nguyen1976/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nguyen1976/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nguyen1976/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/Nguyen1976/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nguyen1976/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nguyen1976/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -326,6 +327,7 @@ Feel free to explore, learn, and contribute!
 | [1833-maximum-ice-cream-bars](https://github.com/Nguyen1976/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nguyen1976/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nguyen1976/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Nguyen1976/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Nguyen1976/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nguyen1976/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Nguyen1976/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -429,6 +431,7 @@ Feel free to explore, learn, and contribute!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nguyen1976/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/Nguyen1976/leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Nguyen1976/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nguyen1976/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nguyen1976/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nguyen1976/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -798,4 +801,8 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nguyen1976/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/Nguyen1976/leetcode/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
