@@ -184,6 +184,7 @@ Feel free to explore, learn, and contribute!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/Nguyen1976/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-power-grid-maintenance](https://github.com/Nguyen1976/leetcode/tree/master/3863-power-grid-maintenance) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nguyen1976/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +466,7 @@ Feel free to explore, learn, and contribute!
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nguyen1976/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nguyen1976/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nguyen1976/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nguyen1976/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
