@@ -185,6 +185,7 @@ Feel free to explore, learn, and contribute!
 | [3838-weighted-word-mapping](https://github.com/Nguyen1976/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-power-grid-maintenance](https://github.com/Nguyen1976/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nguyen1976/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Nguyen1976/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,6 +578,7 @@ Feel free to explore, learn, and contribute!
 | [3546-equal-sum-grid-partition-i](https://github.com/Nguyen1976/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nguyen1976/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nguyen1976/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Nguyen1976/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
