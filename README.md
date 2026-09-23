@@ -193,6 +193,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Nguyen1976/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nguyen1976/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nguyen1976/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
@@ -251,6 +252,7 @@ Feel free to explore, learn, and contribute!
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Nguyen1976/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Nguyen1976/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Nguyen1976/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Nguyen1976/leetcode/tree/master/0696-count-binary-substrings) |
@@ -607,6 +609,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Nguyen1976/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Nguyen1976/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Nguyen1976/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
