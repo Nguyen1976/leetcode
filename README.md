@@ -46,6 +46,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/Nguyen1976/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nguyen1976/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Nguyen1976/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
@@ -753,6 +754,7 @@ Feel free to explore, learn, and contribute!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Nguyen1976/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/Nguyen1976/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/Nguyen1976/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Nguyen1976/leetcode/tree/master/0696-count-binary-substrings) |
