@@ -104,6 +104,7 @@ Feel free to explore, learn, and contribute!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nguyen1976/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Nguyen1976/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nguyen1976/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/Nguyen1976/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Nguyen1976/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -484,6 +485,7 @@ Feel free to explore, learn, and contribute!
 | [0874-walking-robot-simulation](https://github.com/Nguyen1976/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Nguyen1976/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Nguyen1976/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Nguyen1976/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nguyen1976/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nguyen1976/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
