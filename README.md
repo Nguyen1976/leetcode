@@ -45,6 +45,7 @@ Feel free to explore, learn, and contribute!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nguyen1976/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Nguyen1976/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Nguyen1976/leetcode/tree/master/0040-combination-sum-ii) |
@@ -249,6 +250,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nguyen1976/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nguyen1976/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
@@ -805,6 +807,7 @@ Feel free to explore, learn, and contribute!
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1032-stream-of-characters](https://github.com/Nguyen1976/leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nguyen1976/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
