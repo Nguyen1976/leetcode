@@ -57,6 +57,7 @@ Feel free to explore, learn, and contribute!
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nguyen1976/leetcode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Nguyen1976/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nguyen1976/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -195,6 +196,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nguyen1976/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
@@ -526,6 +528,7 @@ Feel free to explore, learn, and contribute!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/Nguyen1976/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Nguyen1976/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nguyen1976/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -613,6 +616,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Nguyen1976/leetcode/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nguyen1976/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Nguyen1976/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -783,6 +787,7 @@ Feel free to explore, learn, and contribute!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Nguyen1976/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nguyen1976/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nguyen1976/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -839,4 +844,8 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/Nguyen1976/leetcode/tree/main/1927-sum-game/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
