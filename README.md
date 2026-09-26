@@ -75,6 +75,7 @@ Feel free to explore, learn, and contribute!
 | [0840-magic-squares-in-grid](https://github.com/Nguyen1976/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/Nguyen1976/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Nguyen1976/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0912-sort-an-array](https://github.com/Nguyen1976/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nguyen1976/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nguyen1976/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nguyen1976/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -390,6 +391,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nguyen1976/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/Nguyen1976/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Nguyen1976/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nguyen1976/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -629,6 +631,7 @@ Feel free to explore, learn, and contribute!
 | [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nguyen1976/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0912-sort-an-array](https://github.com/Nguyen1976/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Nguyen1976/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nguyen1976/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Nguyen1976/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -800,6 +803,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/Nguyen1976/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Nguyen1976/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nguyen1976/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nguyen1976/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -847,10 +851,12 @@ Feel free to explore, learn, and contribute!
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Nguyen1976/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Nguyen1976/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Nguyen1976/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nguyen1976/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -865,4 +871,12 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Nguyen1976/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Nguyen1976/leetcode/tree/main/0706-design-hashmap/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Nguyen1976/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Nguyen1976/leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
