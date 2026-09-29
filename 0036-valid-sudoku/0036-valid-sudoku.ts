@@ -1,48 +1,21 @@
 function isValidSudoku(board: string[][]): boolean {
-    //check row
-    for(let i = 0; i < 9; i++) {
-        const set = new Set(['1', '2', '3', '4', '5', '6', '7', '8', '9'])
-        for(let j = 0; j < 9; j++) {
-            let num = board[i][j]
-            if(num === '.') continue
-            if(set.has(num)) {
-                set.delete(num)
-            } else {
-                return false
-            }
-        }
-    }
+    const rows: boolean[][] = Array.from({ length: 9 }, () => Array(9).fill(false));
+    const cols: boolean[][] = Array.from({ length: 9 }, () => Array(9).fill(false));
+    const boxes: boolean[][] = Array.from({ length: 9 }, () => Array(9).fill(false));
 
-    for(let i = 0; i < 9; i++) {
-        const set = new Set(['1', '2', '3', '4', '5', '6', '7', '8', '9'])
-        for(let j = 0; j < 9; j++) {
-            let num = board[j][i]
-            if(num === '.') continue
-            if(set.has(num)) {
-                set.delete(num)
-            } else {
-                return false
-            }
-        }
-    }
+    for (let i = 0; i < 9; i++) {
+        for (let j = 0; j < 9; j++) {
+            if (board[i][j] !== ".") {
+                const num = board[i][j].charCodeAt(0) - "1".charCodeAt(0);
+                const boxIndex = Math.floor(i / 3) * 3 + Math.floor(j / 3);
 
-    for(let i = 0; i < 9; i += 3) {
-        for(let j = 0; j < 9; j += 3) {
-            const set = new Set(['1', '2', '3', '4', '5', '6', '7', '8', '9'])
-            for(let k = 0; k < 3; k++) {
-                for(let h = 0; h < 3; h++) {
-                    let num = board[i + k][j + h]
-                    if(num === '.') continue
-                    if(set.has(num)) {
-                        set.delete(num)
-                    } else {
-                        return false
-                    }
+                if (rows[i][num] || cols[j][num] || boxes[boxIndex][num]) {
+                    return false;
                 }
+
+                rows[i][num] = cols[j][num] = boxes[boxIndex][num] = true;
             }
         }
     }
-    
-
-    return true
-};
+    return true;
+}
