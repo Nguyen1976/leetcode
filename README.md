@@ -62,6 +62,7 @@ Feel free to explore, learn, and contribute!
 | [0079-word-search](https://github.com/Nguyen1976/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nguyen1976/leetcode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Nguyen1976/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Nguyen1976/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -208,6 +209,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Nguyen1976/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Nguyen1976/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Nguyen1976/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -839,6 +841,7 @@ Feel free to explore, learn, and contribute!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nguyen1976/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nguyen1976/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nguyen1976/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
