@@ -280,6 +280,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nguyen1976/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Nguyen1976/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Nguyen1976/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nguyen1976/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Nguyen1976/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
@@ -543,6 +544,7 @@ Feel free to explore, learn, and contribute!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Nguyen1976/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/Nguyen1976/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nguyen1976/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nguyen1976/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -929,4 +931,8 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nguyen1976/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Nguyen1976/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
