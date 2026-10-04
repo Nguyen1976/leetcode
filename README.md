@@ -77,6 +77,7 @@ Feel free to explore, learn, and contribute!
 | [0396-rotate-function](https://github.com/Nguyen1976/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Nguyen1976/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Nguyen1976/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0682-baseball-game](https://github.com/Nguyen1976/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/Nguyen1976/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Nguyen1976/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nguyen1976/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -516,6 +517,7 @@ Feel free to explore, learn, and contribute!
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Nguyen1976/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/Nguyen1976/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/Nguyen1976/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Nguyen1976/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Nguyen1976/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -541,6 +543,7 @@ Feel free to explore, learn, and contribute!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Nguyen1976/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nguyen1976/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nguyen1976/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nguyen1976/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
