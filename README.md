@@ -545,6 +545,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nguyen1976/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/Nguyen1976/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/Nguyen1976/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nguyen1976/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nguyen1976/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -712,6 +713,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Nguyen1976/leetcode/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/Nguyen1976/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nguyen1976/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nguyen1976/leetcode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nguyen1976/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -935,4 +937,8 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nguyen1976/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nguyen1976/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
