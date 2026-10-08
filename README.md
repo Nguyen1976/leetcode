@@ -65,6 +65,7 @@ Feel free to explore, learn, and contribute!
 | [0119-pascals-triangle-ii](https://github.com/Nguyen1976/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nguyen1976/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nguyen1976/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nguyen1976/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Nguyen1976/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Nguyen1976/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nguyen1976/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -469,6 +470,7 @@ Feel free to explore, learn, and contribute!
 | [0048-rotate-image](https://github.com/Nguyen1976/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Nguyen1976/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nguyen1976/leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nguyen1976/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Nguyen1976/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Nguyen1976/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/Nguyen1976/leetcode/tree/master/0263-ugly-number) |
@@ -545,6 +547,7 @@ Feel free to explore, learn, and contribute!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nguyen1976/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nguyen1976/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Nguyen1976/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Nguyen1976/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/Nguyen1976/leetcode/tree/main/0682-baseball-game/) | Easy |
